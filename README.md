@@ -54,8 +54,8 @@ Download the zip folder
 (Link: https://github.com/AnushaNathRoy/Youtube-Study-Buddy/tree/main/Youtube-Study-Buddy%20App)
 Run on terminal:
 ```sh
-g++ BANK.CPP -o bank;
-./bank;
+g++ BANK.CPP -o bank
+./bank
 ```
 
 
