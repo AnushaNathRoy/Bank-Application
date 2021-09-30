@@ -6,6 +6,7 @@
 A user-friendly E-banking application program. It dives into working of e-banking and data management systems. The application provides user with abilities to create, view, withdraw/deposit money and even take loans. The application provides login and systems at both the administrative and end-user level.
 
 
+![alt text](https://github.com/AnushaNathRoy/Bank-Application/blob/main/Readme-Images/beggining.svg)
 
 ## About The Project
 
@@ -31,7 +32,7 @@ The user has been given the following options:
   - To withdraw amount from your account.
   - To take a loan from the bank. 
  
-
+![alt text](https://github.com/AnushaNathRoy/Bank-Application/blob/main/Readme-Images/user.svg)
 
 
 ## Banker Login
@@ -45,7 +46,7 @@ The banker has been given the following options:
 - To append an account by adding new records.
 - To delete the account based on account number.
 
-
+![alt text](https://github.com/AnushaNathRoy/Bank-Application/blob/main/Readme-Images/banker.svg)
 
 
 ## Local Installation:
